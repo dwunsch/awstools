@@ -53,7 +53,7 @@ $ chmod +x awstools
 ```
 
 ## Build
-Export reqired environment variables:
+Export required environment variables:
 ```sh
 export GOPATH=$HOME/goprojects
 export PATH=$PATH:$GOPATH/bin
